@@ -1,0 +1,9 @@
+Name,Gender,Education,Self Employed,Marital Status,Dependents,Applicant Income,Co-Applicant Income,Loan Amount,Loan Term,Credit History,Property Area
+Aishani,0,0,1,1,2,1000000,5000,100000,273,1,Urban,Approved
+Aishani,0,0,1,0,0,1500,0,10000,365,1,Semiurban,Approved
+Agam,0,1,0,0,0,1500,0,35000,780,1,Urban,Approved
+Aishani,0,0,1,0,1,120000,12345,12345,245,1,Urban,Approved
+aaina,0,0,1,1,1,1000000,20000,1000000,300,Urban,Approved
+aishani,0,0,0,0,2,123456789,1234567,1234,200,Urban,Approved
+aishani,0,0,0,0,2,123456789,1234567,1234,200,Urban,Approved
+aaina,0,1,0,0,2,1234,123456,12345,1234,Semiurban,Approved

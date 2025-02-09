@@ -1,0 +1,4 @@
+Name,Gender,Education,Self_Employed,Marital_Status,Dependents,Applicant_Income,Coapplicant_Income,Loan_Amount,Loan_Term,Property_Area,Prediction
+shreya ,0,0,1,0,0,1500,0,10000,360,Semiurban,Approved
+Aishani,0,0,1,0,0,1500,0,10000,360,Semiurban,Approved
+AISHANI,0,0,1,0,0,1500,0,10000,360,Semiurban,Approved

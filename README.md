@@ -1,5 +1,4 @@
-# HackTU_Brots
-Team Brots at HackTU 6.0
+# LoanVault
 
 # Problem
 Traditional banking systems rely heavily on CIBIL scores, excluding millions of individuals—such as gig workers, first-time borrowers, and those from rural areas—who lack a formal credit history. Banks also spend significant time and manpower manually verifying documents and assessing risk.
